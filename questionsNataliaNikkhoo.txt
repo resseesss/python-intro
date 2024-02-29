@@ -1,11 +1,15 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+cd command allows to switch directories, the ls command allows you to see what is in a respective directory, and clear resets the command portal you are using. 
 
 2. Do you have pets? What kind?
+I have a dog named Lily. She is a golden doodle. 
 
 3. If you run across an error, what would your first course of action be?
+Analyze the error message prompted on the screen. Listen to your computer!
 
 4. Funniest thing that happened to you in high school.
+Last week of senior year we all barbequed in class. 
 
 5. What is a python script? (Keep it simple)
-
+Python script refers to python code that can be used to run a program.
 
